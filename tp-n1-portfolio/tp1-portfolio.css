@@ -1,0 +1,33 @@
+* {
+    margin: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-family: "Montserrat", "sans-serif", "helvetica";
+    background-color: #beb7a4;
+
+}
+
+h1 {
+    font-family: "Syncopate";
+    font-size: 3rem;
+}
+h2 {
+    font-family: "Syncopate";
+    font-size: 2rem;
+}
+h3 {
+    font-family: "Syncopate";
+    font-size: 1.5rem;
+}
+h4 {
+    font-family: "Syncopate";
+}
+h5 {
+    font-family: "Syncopate";
+}
+h6 {
+    font-family: "Syncopate";}
+
+p {
+    font-family: "Montserrat", sans-serif, helvetica;
+}

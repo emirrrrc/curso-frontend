@@ -8,9 +8,9 @@
 
 - El menú de navegación debe ser:
 
-- Desplegable tipo hamburguesa en Mobile
+    - Desplegable tipo hamburguesa en Mobile
 
-- Visible y horizontal en Desktop
+    - Visible y horizontal en Desktop
 
 - Utilizar etiquetas semánticas de HTML correctamente.
 
